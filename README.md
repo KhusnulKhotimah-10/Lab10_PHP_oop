@@ -1,6 +1,6 @@
 # lab10-pemograman-web
-# Nama : Sheila Antica Oktaviani
-# Nim : 312410002
+# Nama : Khusnul Khotimah
+# Nim : 312410126
 # Kelas : TI.24.A1
 
 # Hasil Dashboard
